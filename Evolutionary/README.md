@@ -1,5 +1,5 @@
-#Evolutionary Algorithm 
-##for Inverse Travelling Salesman Problem
+# Evolutionary Algorithm 
+## for Inverse Travelling Salesman Problem
 
 Run: 
 	$ ./main <PositionFile> <populationSize> <survivalRate> <maxIteration>
