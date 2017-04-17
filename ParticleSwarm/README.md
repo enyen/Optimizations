@@ -1,5 +1,5 @@
-#Particle Swarm Algorithm 
-##for Inverse Travelling Salesman Problem
+# Particle Swarm Algorithm 
+## for Inverse Travelling Salesman Problem
 
 Run: 
 	$ ./main <zFile> <paramFile>
