@@ -1,0 +1,10 @@
+popuSize 30
+K 20
+omega 0.4
+alpha 1.0
+beta 2.0
+gamma 1.0
+maxIte 2000
+knn 10
+validate 0.4
+
